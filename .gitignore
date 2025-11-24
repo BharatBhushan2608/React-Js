@@ -1,0 +1,23 @@
+# Ignore ALL node_modules folders
+node_modules/
+
+# Ignore Vite build folders
+dist/
+build/
+.vite/
+
+# Ignore logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore editor settings
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment variables
+.env
+.env.local
