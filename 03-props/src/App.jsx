@@ -12,7 +12,7 @@ const App = () => {
        <Card user="Sonakshi" age="23" img={img2} about="She is a designer who enjoys creating beautiful UI."/>
         
     </div>
-  )
+  )  
 }
 
 export default App
